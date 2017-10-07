@@ -1,5 +1,5 @@
-# pyconfhyd
-
+# PyConf Hyd 2017
+ 
 Chatbots built for conducting a hands-on workshop on how to build chabots
 
 ## Installation Instrtuctions
