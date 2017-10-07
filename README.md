@@ -21,3 +21,6 @@ Chatbots built for conducting a hands-on workshop on how to build chabots
 
 #### [Ask py](https://goo.gl/forms/TBL2MaMNR8DNgoRk2)
 
+#### [Practice Problems](https://docs.google.com/document/d/1QOs0xdyo6PNOx448QK7-m54e52m33LGTCv16MbIvMlI/edit?usp=sharing)
+
+
