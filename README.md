@@ -23,4 +23,4 @@ Chatbots built for conducting a hands-on workshop on how to build chabots
 
 #### [Practice Problems](https://docs.google.com/document/d/1QOs0xdyo6PNOx448QK7-m54e52m33LGTCv16MbIvMlI/edit?usp=sharing)
 
-
+#### [iPython Notebooks](https://github.com/PandaWhoCodes/smbot)
