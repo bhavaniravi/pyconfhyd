@@ -12,7 +12,7 @@ Chatbots built for conducting a hands-on workshop on how to build chabots
      `python`
    2. In the shell type the following lines  
       `import nltk`  
-      `nltk.downloader()`
+      `nltk.download()`
    3. A new window will open. Select the `English corpora` and download it.
    
 #### [Code](https://github.com/bhavaniravi/techbot)
@@ -21,5 +21,6 @@ Chatbots built for conducting a hands-on workshop on how to build chabots
 
 #### [Ask py](https://goo.gl/forms/TBL2MaMNR8DNgoRk2)
 
-#### [iPython Notebooks](https://github.com/PandaWhoCodes/smbot)
+#### [Practice Problems](https://docs.google.com/document/d/1QOs0xdyo6PNOx448QK7-m54e52m33LGTCv16MbIvMlI/edit?usp=sharing)
 
+#### [iPython Notebooks](https://github.com/PandaWhoCodes/smbot)
